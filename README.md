@@ -47,26 +47,14 @@ developer:
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
 ## 📊 Performance & GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anuragver08xAi&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0d1322" alt="Anurag's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragver08xAi&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1322" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragver08xAi&theme=synthwave&bg_color=0d1322&hide_border=true&area=true" width="100%" alt="Anurag's GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragver08xAi&theme=synthwave&hide_border=true&background=0d1322" alt="Commit Streak" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuragver08xAi&theme=react-dark&bg_color=0d1322&hide_border=true" alt="Activity Graph" />
+  <img src="https://komarev.com/ghpvc/?username=anuragver08xAi&color=35e0aa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 ---
